@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1665056951 source:c:\projects\project-tx\project-tx\src\tx_core.c
+	<tx_core.h>
+
+1664952662 source:c:\projects\project-tx\project-tx\src\tx_string.c
+	<tx_string.h>
+
+1664954174 c:\projects\project-tx\project-tx\include\tx_string.h
+
+1665057479 c:\projects\project-tx\project-tx\include\tx_core.h
+	<stdio.h>
+	<stdlib.h>
+
+1665057652 source:c:\projects\project-tx\project-tx\main.c
+	<tx.h>
+
+1665050425 c:\projects\project-tx\project-tx\include\tx.h
+	<tx_list.h>
+
+1665052179 c:\projects\project-tx\project-tx\include\tx_list.h
+	<tx_core.h>
+
+1665057672 source:c:\projects\project-tx\project-tx\src\tx_list.c
+	<tx_core.h>
+
